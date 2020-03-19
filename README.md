@@ -108,6 +108,14 @@ The project depends on the following packages. The licensing for the packages ca
 * [path_provder](https://pub.dev/packages/path_provider): License [BDS](https://github.com/flutter/plugins/blob/master/packages/path_provider/LICENSE);
 * [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons): License [MIT](https://github.com/fluttercommunity/flutter_launcher_icons/blob/master/LICENSE);
 
+## Fans
+
+People around the world are using m work, see below:
+
+- [Adrien](https://www.linkedin.com/in/adrien-sales/) a fan from New-Caledonia wrote a [dedicated FanArticle](https://www.linkedin.com/pulse/spread-monozukuri-culture-your-workplace-relax-let-code-adrien-sales/)
+
+You are also using this amazing clockface ? Share your experience.
+
 ## Reflection
 
 “What I like most about this concept is that it is very easy to imagine a kid running to his parent shouting: „Quick the bird is here!”  - The clock can become an occasion for a positive interaction at home. “
